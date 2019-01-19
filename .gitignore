@@ -1,0 +1,8 @@
+.env*
+*.xml
+.idea
+*.pyc
+.pytest_cache
+.coverage
+htmlcov
+.coveralls.yml
